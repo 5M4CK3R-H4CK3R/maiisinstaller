@@ -89,6 +89,7 @@ print("pip install tts")
 time.sleep(1)
 print("and then go to your home directory and you will see a folder called maiis and go to inside it and now run ----python maiispro.py----- and enjoy")
 os.system('rm -rf maiisinstaller')
+os.system('cd ..')
 time.sleep(3)
 os.chdir('..')
 
