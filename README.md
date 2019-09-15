@@ -1,2 +1,2 @@
 # maiisinstaller
-To install maiis run this as python mkdirsd.py
+To install maiis run this as python mkdirnsd.py
