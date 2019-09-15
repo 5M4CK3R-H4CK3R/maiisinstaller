@@ -77,6 +77,8 @@ os.chdir('/data/data/com.termux/files/home')
 os.system('clear')
 os.system('git clone https://github.com/5M4CK3R-H4CK3R/maiis.git')
 os.system('clear')
+os.chdir('/data/data/com.termux/filer/home')
+os.system('rm -rf maiisinstaller')
 print("All are don and also pleas install termux api from google play store")
 time.sleep(1)
 print("please also install some pkg")
@@ -86,6 +88,8 @@ time.sleep(1)
 print("pip install tts")
 time.sleep(1)
 print("and then go to your home directory and you will see a folder called maiis and go to inside it and now run ----python maiispro.py----- and enjoy")
+time.sleep(3)
+os.chdir('..')
 
 
 
